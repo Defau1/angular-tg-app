@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "dist/tg_bot_mini_app/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

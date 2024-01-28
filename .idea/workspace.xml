@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4572e62f-d6be-4aec-9444-68f06e4c67e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/admin.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/create-page/create-page.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/create-page/create-page.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/create-page/create-page.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/dashboard-page/dashboard-page.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/dashboard-page/dashboard-page.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/dashboard-page/dashboard-page.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/edit-page/edit-page.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/edit-page/edit-page.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/edit-page/edit-page.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/login-page/login-page.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/login-page/login-page.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/login-page/login-page.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/shared/components/admin-layout/admin-layout.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/shared/components/admin-layout/admin-layout.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/admin/shared/components/admin-layout/admin-layout.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/home-page/home-page.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/home-page/home-page.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/home-page/home-page.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/post-page/post-page.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/post-page/post-page.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/post-page/post-page.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/shared/components/main-layout/main-layout.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/shared/components/main-layout/main-layout.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/shared/components/main-layout/main-layout.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/shared/components/post/post.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/shared/components/post/post.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/app/shared/components/post/post.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-blog/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projects/angular-historical-cards/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NYC site.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Флаг РФ.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../апаю.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../верстка сайта.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../поле ввода пароля.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2bbLdDhHaFKPPgo1VRUGhijbrM7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Frontend/vscode_angular_projects",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4572e62f-d6be-4aec-9444-68f06e4c67e2" name="Changes" comment="" />
+      <created>1706478916166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706478916166</updated>
+      <workItem from="1706478917296" duration="15000" />
+    </task>
+    <servers />
+  </component>
+</project>
